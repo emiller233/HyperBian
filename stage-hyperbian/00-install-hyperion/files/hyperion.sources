@@ -1,0 +1,6 @@
+Name: Hyperion
+Enabled: yes
+Types: deb
+URIs: https://apt.releases.hyperion-project.org
+Components: main
+Signed-By: /etc/apt/keyrings/hyperion.pub.gpg
